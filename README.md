@@ -5,6 +5,8 @@ A LED for the Internet! Code and HowTo to build a LED to be
 # Code
 The code you will need is here and is [iftttled.ino](https://raw.githubusercontent.com/ericoporto/IFTTTLed/master/iftttled.ino) and [webtypes.h](https://raw.githubusercontent.com/ericoporto/IFTTTLed/master/webtypes.h). Download both to a folder in your Arduino Sketch workspace. When iftttled.ino is open, certify that webtypes.h is also open in another tab of the same Arduino IDE instance - this should happen automatically.
 
+This code is based on the [WebServer-multi-page (5 Feb 2011)](http://playground.arduino.cc/Code/WebServer), by Martyn Woerner, Alessandro Calzavara and Alberto Capponi.
+
 # Configuration
 1. Let's check if our circuit and code is working.
 To test, open the terminal (in Linux) and type
