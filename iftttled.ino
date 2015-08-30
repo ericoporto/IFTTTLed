@@ -5,7 +5,7 @@
 //  the file webtypes.h should be on the same folder. When you load
 //   this file, the Arduino IDE should load it too in another tab.
 //
-// Author Erico Vieira Porto
+// 2015 Érico Vieira Porto
 //
 // Based on the code WebServer-multi-page (5 Feb 2011)
 // http://playground.arduino.cc/Code/WebServer
