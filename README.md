@@ -47,10 +47,9 @@ The led Cathode must be placed on pin 2 of the Arduino Ethernet Shield.
 
 Connect the resistor on the led Anode, and the other pin from the resistor on GND.
 
+![LED Built](https://raw.githubusercontent.com/ericoporto/IFTTTLed/master/img/smallphoto.jpg)
+
 Use Wires if necessary, for better grip and flexibility.
-
-<img align="right" src="https://raw.githubusercontent.com/ericoporto/IFTTTLed/master/img/smallphoto.jpg">
-
 
 # IFTTT
 
