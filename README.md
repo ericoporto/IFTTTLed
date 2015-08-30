@@ -109,6 +109,6 @@ Test
 
 * and the answer should now be:
 
-        Congratulations! You've fired the led_on event
+        Congratulations! You've fired the led_off event
 
 * the led should switch off!
