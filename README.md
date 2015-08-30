@@ -2,7 +2,7 @@
 A LED for the Internet! Code and HowTo to build a LED to be
  triggered with [IFTTT/Maker channel](https://ifttt.com/maker), using Arduino.
 
-<img align="right" src="https://raw.githubusercontent.com/ericoporto/IFTTTLed/master/img/smallphoto.jpg">
+
 
 # Code
 The code you will need is here and is [iftttled.ino](https://raw.githubusercontent.com/ericoporto/IFTTTLed/master/iftttled.ino) and [webtypes.h](https://raw.githubusercontent.com/ericoporto/IFTTTLed/master/webtypes.h). Download both to a folder in your Arduino Sketch workspace. When iftttled.ino is open, certify that webtypes.h is also open in another tab of the same Arduino IDE instance - this should happen automatically.
@@ -48,6 +48,9 @@ The led Cathode must be placed on pin 2 of the Arduino Ethernet Shield.
 Connect the resistor on the led Anode, and the other pin from the resistor on GND.
 
 Use Wires if necessary, for better grip and flexibility.
+
+<img align="right" src="https://raw.githubusercontent.com/ericoporto/IFTTTLed/master/img/smallphoto.jpg">
+
 
 # IFTTT
 
